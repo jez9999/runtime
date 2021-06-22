@@ -37,6 +37,7 @@
       COMPlus_EnableSSSE3;
       COMPlus_FeatureSIMD;
       COMPlus_ForceRelocs;
+      COMPlus_GCLargePages;
       COMPlus_GCStress;
       COMPlus_HeapVerify;
       COMPlus_JITMinOpts;
